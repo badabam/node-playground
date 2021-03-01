@@ -1,4 +1,3 @@
 // ESM syntax: import hello from './hello'
-const random = require('./random')
-const max = Number(process.argv[2])
-console.log(random(max)) // random from 0 - 10
+const read = require('./read.js')
+read('.prettierrc')
