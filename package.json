@@ -1,0 +1,23 @@
+{
+  "name": "node-playground",
+  "version": "0.0.1",
+  "description": "Hello world, this is a text. Please count the words.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badabam/node-playground.git"
+  },
+  "keywords": [],
+  "author": "Jeremias Erbs <jerry@badabam.de> (https://badabam.de/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badabam/node-playground/issues"
+  },
+  "homepage": "https://github.com/badabam/node-playground#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
