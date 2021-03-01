@@ -1,5 +1,1 @@
-[
-  { "name": "vim", "score": 4 },
-  { "name": "vscode", "score": 10 },
-  { "name": "brew", "score": 8 }
-]
+[{"name":"bar","score":"8"},{"name":"bar","score":"8"},{"name":"foo","score":"5"},{"name":"baz","score":"1"}]
