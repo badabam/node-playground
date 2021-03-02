@@ -1,3 +1,4 @@
-// ESM syntax: import hello from './hello'
-const read = require('./read.js')
-read('.prettierrc')
+const addStudent = require('./addStudent.js')
+const [, , name, role] = process.argv
+
+addStudent({ name, role, php: false })
